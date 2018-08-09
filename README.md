@@ -13,3 +13,9 @@ Day04 : Logistic Regression
 Day05 : KNN classification
 
 Day06 : Decision Trees and Random Forest
+
+Day07 : Support Vector Machines
+
+Day08 : Decision Trees and Random Forest
+
+Day09 : Principal Component Analysis
