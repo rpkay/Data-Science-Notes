@@ -19,3 +19,11 @@ Day07 : Support Vector Machines
 Day08 : Decision Trees and Random Forest
 
 Day09 : Principal Component Analysis
+
+Day10 : Recommender systems
+
+Day11 : Xgboost
+
+Day12 : Hyper parameter tuning on Xgboost
+
+Day13 & 14 : Adaboost
