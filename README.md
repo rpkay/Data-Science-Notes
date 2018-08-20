@@ -27,3 +27,9 @@ Day11 : Xgboost
 Day12 : Hyper parameter tuning on Xgboost
 
 Day13 & 14 : Adaboost
+
+Day15 & 16 : Association Rule
+
+Day17 & 18 : Stacking
+
+Day19 & 20 : Hierarchical Clustering
