@@ -37,3 +37,5 @@ Day19 & 20 : Hierarchical Clustering
 Day21 : Ridge and Lasso regression
 
 Day22 & 23 : Elastic Net regression
+
+Day24 & 25 : Time-series basics
