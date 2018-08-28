@@ -39,3 +39,5 @@ Day21 : Ridge and Lasso regression
 Day22 & 23 : Elastic Net regression
 
 Day24 & 25 : Time-series basics
+
+Day26 & 27 : Time-series advanced
