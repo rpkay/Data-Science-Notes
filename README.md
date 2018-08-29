@@ -41,3 +41,5 @@ Day22 & 23 : Elastic Net regression
 Day24 & 25 : Time-series basics
 
 Day26 & 27 : Time-series advanced
+
+Day28 : LDA & QDA
