@@ -43,3 +43,7 @@ Day24 & 25 : Time-series basics
 Day26 & 27 : Time-series advanced
 
 Day28 : LDA & QDA
+
+Day29,30 : Basics of Neural networks
+
+Day31 : Simple ANN using Keras
