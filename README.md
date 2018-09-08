@@ -47,3 +47,5 @@ Day28 : LDA & QDA
 Day29,30 : Basics of Neural networks
 
 Day31 : Simple ANN using Keras
+
+Day32,33 : CNN, RNN -Text classification
