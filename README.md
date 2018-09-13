@@ -49,3 +49,5 @@ Day29,30 : Basics of Neural networks
 Day31 : Simple ANN using Keras
 
 Day32,33 : CNN, RNN -Text classification
+
+Day34 : Automated feature engineering using Feature tools
